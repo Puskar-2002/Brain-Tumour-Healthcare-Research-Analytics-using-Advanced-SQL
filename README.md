@@ -132,22 +132,22 @@ This project demonstrates strong proficiency in advanced SQL concepts, including
 
 Applying advanced SQL queries, joins, and window functions on the dataset produces the following insights:
 
-Tumor-wise Survival Patterns
+# Tumor-wise Survival Patterns
     * Glioblastoma (GBM) patients exhibit significantly lower survival durations compared to low-grade tumors such as meningioma and pituitary tumors, highlighting the aggressive nature of GBM.
 
-Treatment Effectiveness
+# Treatment Effectiveness
     * Patients receiving immunotherapy or targeted therapies demonstrate improved average survival compared to single-modality treatments such as chemotherapy.
 
-Biomarker Impact
+# Biomarker Impact
     * Higher immune biomarker scores and favorable genomic markers (e.g., MGMT methylation and IDH mutation) are associated with better survival outcomes, supporting precision-medicine approaches.
 
-Imaging-Based Prognosis
+# Imaging-Based Prognosis
     * Lower tumor volume and higher radiomic scores correlate with better clinical outcomes, emphasizing the prognostic value of advanced imaging features.
 
-Clinical Trial Participation
+# Clinical Trial Participation
     * Trial-enrolled patients show measurable differences in survival trends, underscoring the importance of research-driven treatment strategies.
 
-Hospital-Level Variations
+# Hospital-Level Variations
     * Survival outcomes and treatment distributions vary across hospitals, enabling institutional performance and care-pattern analysis.
 
 These insights demonstrate how structured healthcare data can be transformed into meaningful clinical and research intelligence using SQL-based analytics.
